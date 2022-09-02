@@ -31,19 +31,30 @@ sending the collected data online. Some of the libraries that I used had tons
 of bugs and outdated tutorials/documentations. I had to rely on the few working
 demos provided to figure things out or resort to trial-and-error. 
 ### Favorite Programming Project
-
+The favorite programming project I worked on was a text based RPG game for my 
+COMPSCI 101 course at DKU.
 
 ### Programming Event
-
+My worst programming experience was trying to figure out Xilinx Vivado and 
+Verilog with little prior experience in FPGA for one of my summer research. 
+The tutorial I found was unclear, and sometimes Vivado just stops working
+with no apparent reason.
 
 ### CompSci 307 Motivation
-
+I believe it would help me further my skills. I have no prior experience in
+making GUI and isn't good at collaborating with others on code. I could have
+done much more if I had these two skills during summer research.
 
 ### Planning and Designing Code
-
+Currently, I don't do enough to pre-plan or design my code. I sometimes use
+checklists to make sure I don't miss a method or two. I sometimes also use 
+flowcharts to tell myself what to do in the program.
 
 ### Advice for Next Generation
-
+I would encourage my little brother to give Computer Science a try. I would
+suggest him start at an earlier age than me. However, I **am** a bit concerned
+about whether this is what he truly wants or something me and the societal
+situation force onto him.
 
 ### Societal Role of Computer Science
 
