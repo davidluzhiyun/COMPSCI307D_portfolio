@@ -26,8 +26,8 @@ wrote some code in C while checking documentation (I didn't know C at the
 time) to make the development board output the desired scanning wave signal.
 
 
-In a later project, I used python to monitor MbientLab MetaWear sensors while
-sending the collected data online. Some of the libraries that I used had tons 
+In [a later project](https://sites.duke.edu/dukecdl_internal/smart-sensors-dku/), I used python to monitor [MbientLab MetaWear](https://mbientlab.com/) sensors while
+sending the collected data online. Some of the libraries that I used back then had tons 
 of bugs and outdated tutorials/documentations. I had to rely on the few working
 demos provided to figure things out or resort to trial-and-error. 
 ### Favorite Programming Project
@@ -53,10 +53,18 @@ flowcharts to tell myself what to do in the program.
 ### Advice for Next Generation
 I would encourage my little brother to give Computer Science a try. I would
 suggest him start at an earlier age than me. However, I **am** a bit concerned
-about whether this is what he truly wants or something me and the societal
-situation force onto him.
+about whether this is what he truly wants or something me and [the societal
+situation](https://www.bloomberg.com/news/articles/2022-08-15/china-youth-jobless-rate-hits-record-20-in-july-on-covid-woes#xj4y7vzkg) force onto him.
 
 ### Societal Role of Computer Science
-
+Computer Science is a powerful tool in dealing with societal problems. This
+has been demonstrated by social projects such as [Project Cybersyn](https://en.wikipedia.org/wiki/Project_Cybersyn).
+When misused, on the other hand, Computer Science is also capable of great harm like in the [recent 
+incident in Henan](https://www.reuters.com/world/china/china-bank-protest-stopped-by-health-codes-turning-red-depositors-say-2022-06-14/).
+However, I believe that using Computer Science properly on a societal level
+might not be within the ability or responsibility of individual Computer Scientists .
 
 ### Using Computer Science in the Future
+I am not sure at this point. I haven't figured whether I will work in academia
+or the industries. Also, I am not sure if I will use Computer Science as a tool
+for other subjects or remain in Computer Science.
