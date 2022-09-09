@@ -17,11 +17,17 @@ Me and my freshmen year roommate were personally harmed by the health
 code. Due to a glitch, one function of the health code couldn't load
 for him. He was virtually stuck on campus. 
 
-For me, there was a major information leak for the Shanghainese local Health
+For me, according to the news, there was a major information leak for the Shanghainese local Health
 code and my personal info was sold on the dark web.
 
 ### Computing technology trend for society
-
+I believe computing technology is beneficial to people in general as it expands the
+ability of humanity to think, plan and organize. Some may argue that by expanding 
+the ability of humans, computing technology expand the ability of human to do harm to 
+each other. This is indeed true, but is not sufficient to show computing technology is 
+detrimental to humanity. Many of the problems associated with computing science are
+can trace their origins to structural problems that predate computing technology. Computing
+technology merely creates a new context for the problems to exist in.
 
 ### Computing technology's role in ethics
 
