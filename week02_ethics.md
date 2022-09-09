@@ -30,7 +30,13 @@ can trace their origins to structural problems that predate computing technology
 technology merely creates a new context for the problems to exist in.
 
 ### Computing technology's role in ethics
-
+This however is not to say that computing technology doesn't bring any new ethical
+problems at all. One of the new problems computing technology has brought forth is 
+the tracing of responsible parties. As computing technology expand or even replace human
+in thinking and decision-making, it has become increasingly hard to trace responsibility.
+If a drone killed a child because it has mistaken him/her as a combatant, it is hard
+to pinpoint the responsibility to one specific person. Rather a huge group of people share
+different level of responsibility for the incident.
 
 
 ## Failure Essay
