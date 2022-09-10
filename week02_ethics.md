@@ -42,7 +42,17 @@ different level of responsibility for the incident.
 ## Failure Essay
 
 ### Personal Experience
+The results for my MATH 205 Probability and statistics course were very underwhelming to
+say at least. I spent a lot of time every day on the subject and did well in the homework
+problem sets. But it was either that I was overconfident, or maybe it was the insomnia 
+before final, my eventual grades were underwhelming. According to the courses I chose at
+the beginning of the beginning at the semester, I needed to take STATS 210 Probability
+and Random Process, the follow-up to MATH 205 immediately in the next 7-week session.
 
+I initially considered dropping STATS 210, but the schedule didn't work out. Luckily
+during the first week to jog our memories of MATH 205. I used the week to deepen my
+understanding of the old materials of MATH 205 and familiarize myself with the new 
+materials. Eventually, I dd well for STATS 210.
 
 ### Positive reframing
 
