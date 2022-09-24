@@ -32,4 +32,18 @@ We build an incoherent mess that doesn't work at all due to collaboration breakd
 
 ## Ethics Reflection
 
-Ethical thoughts regarding AI/Robots
+### Ethical thoughts regarding AI/Robots: 
+
+* What happens when AI/robots replace humans doing a specific job (such as factory workers, truck drivers, or radiologists)?
+
+To answer this question, looking into those historically replaced by the first two
+industrial might be a good point of reference. Historically, the majority of
+handicraftsmen replaced and the farmers who lost their land during the industrial
+revolutions had no choice but to work in the factories. The effect of AI might be
+similar for those it replaces with one key difference: AI is replacing jobs far faster
+than it create jobs. 
+Therefore, we can predict three major options for the replaced provided no drastic 
+changes happen to answers of the three questions of production. The actual outcome
+might be a mixture of the three as these people work freelance. Option 1: Work as data
+labelers. Option 2: Get some other job not yet replaced while producing data so that
+AI can replace them later. Option 3: Become unemployed and obsolete.
