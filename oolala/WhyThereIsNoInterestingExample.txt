@@ -1,0 +1,8 @@
+Dear Sir,
+I am not sure if it is due to glitches with gitlab or teamwork problems, the latest version of
+our teams oolala project is broken and left many of my features unintegrated. While my code is still
+there, few of the interesting features related to my code seems working. Also, the program can't
+seem to load files. I tried to contact my team but mass texting broke down on my cell phone.
+I will try to make up for it as soon as possible.
+Yours,
+Zhiyun (David) Lu
