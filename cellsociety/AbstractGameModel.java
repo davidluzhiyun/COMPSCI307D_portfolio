@@ -151,7 +151,7 @@ public abstract class AbstractGameModel {
     }
   }
 
-  public ImmutableNeighbourhood getNeighbourhoodAt(int X, int Y){
+  protected ImmutableNeighbourhood getNeighbourhoodAt(int X, int Y){
     Neighbourhood my = new Neighbourhood(X, Y);
     setVonNeumannNeighbours(X, Y, my);
     setMooreNeighbours(X, Y, my);
