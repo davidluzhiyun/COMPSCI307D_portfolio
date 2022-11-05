@@ -50,21 +50,26 @@ through a interface
 * Adding some CAs such as spread of fire and rock paper scissors
 
 * The Stationary model doesn't care about what are its cells so long it is a "Stationary CA" (CAs
-where the cells update in place dependent only on its neighbors)
+where the cells update in place dependent only on its neighbors).
 
 
 #### Good Example **teammate** implemented
 
-* Design
+* gridAssembly method in DataFileParser
+* This method utilizes reflection with property files to create and fill a Grid instance
+  (a wrapper around map) to pass to the gameModel constructor. Sadly it wasn't really implemented
+due to team work problems.
+* Due to my design flaws, the method directly outputs a grid instead using a interface
 
-* Evaluation
 
 
 #### Needs Improvement Example **teammate** implemented
 
-* Design
+* public List<List<Integer>> getCellStateGrid() {
+  return cellStateGrid;
+  } in GameState.java
 
-* Evaluation
+* This breaks encapsulation
 
 
 
