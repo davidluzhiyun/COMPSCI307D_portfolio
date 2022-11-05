@@ -130,4 +130,4 @@ cells while the cells are blind to the grid held in the model.
 * Now I am more mindful about what info each class is allowed to access and what should be hidden.
 #### What specific steps can you take to become a better designer?
 * The team workflow and planning is a mess this time. I need to facilitate communication within team
-better. And I should definitely make clear how the classes interact.
+better. And I should definitely make clear how the classes interact in the first place.
