@@ -78,13 +78,20 @@ due to team work problems.
 
 ### Design Challenge
 
-* Trade-offs
+* Trade off
+  * Making the cells blind to the larger grid makes CAs like Segregation hard to implement,
+but is better in the sense of access control.
 
-* Alternate designs
+* Alternative design
+  * Pass in a copy of the entire grid in a wrapper
 
 * Solution
+  * Make the cells completely blind to the grid and only pass in the CellType information of its
+  neighbors when updating, while the model is blind of the cells' internal parameters. For CAs where
+  that information is needed by the cell, have a different model.
 
 * Justification or Suggestion
+  * This design choice makes changing the model and the cells somewhat easier. 
 
 
 ### Code Design Examples
@@ -92,22 +99,35 @@ due to team work problems.
 #### Good Example **you** implemented
 
 * Design
+  * For StationaryModel and CAs that use it, individual cells are responsible for returning the 
+updated cell, and they pass their parameter to the updated cell. The model pass information about
+the types of their neighbours into the cells. The model doesn't know the internal workings of the
+cells while the cells are blind to the grid held in the model.
 
 * Evaluation
+  * The good encapsulation of this design enables the easy implementation some interesting features.
+  One example is that for spread of fire, one can make an entire forrest of tree cells with 
+  different probability of catching fire. By pass the neighbor information in the Neighbour class,
+  implementing different neighbour and border policies has also been made easier.
 
 
 #### Needs Improvement Example **you** implemented
 
 * Design
+  * StationaryGameModel is constructed using an instance of Grid
 
 * Evaluation
-
+  * The methods in the Grid class such as putCellAt aren't used by StationaryGameModel, I should
+  make an interface that only contain the used methods.
 
 
 ## Conclusions
 
 #### What part(s) of the code did you spend the most time on?
+* Refactoring my package to leave space for non-stationary CAs like Wa-Tor and segregation.
 
 #### How has your perspective on and practice of coding changed?
-
+* Now I am more mindful about what info each class is allowed to access and what should be hidden.
 #### What specific steps can you take to become a better designer?
+* The team workflow and planning is a mess this time. I need to facilitate communication within team
+better. And I should definitely make clear how the classes interact.
