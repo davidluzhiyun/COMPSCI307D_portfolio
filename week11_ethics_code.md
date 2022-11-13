@@ -164,6 +164,17 @@ violating 3.1
 
 
 ## Response to using the Code
+The Code give care not only to the harm intended by programs, but also to the
+uncontrollable consequences of programs released or harm caused by carelessness.
+However, exactly because the Code attempt to be all-encompassing, sometimes multiple codes might
+be in conflict. This often happens between principles regarding professional ethic and moral
+consequences.
+Despite its problems, the comprehensiveness of the Code is very impressive and will definitely make
+my think about the implications of my intended profession.
 
 
 ## Response to the quote about releasing software is an uncontrolled experiment
+First, when software released, there can be countless ways people copy, spread, and modify the content.
+The original programmers don't have much control over how it is used.
+Second, the programmers have no control over user input. This may break the software in unexpected
+ways or cause security issues.
