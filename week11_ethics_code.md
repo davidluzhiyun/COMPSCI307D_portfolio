@@ -111,46 +111,51 @@ inaction
 This might relate to a previous journal about making explainable models.
 
 
-## Scenario #3
+## Scenario #3 
 
 ### Summary of Situation's Ethical Issues
 
 
-### CARE Process
+### CARE Process Malware Disruption
 
 * CONSIDER who might be affected and how
+  * Malwares running on Rogue will no longer be operational
+  * Independent web-based using Rogue will find their data gone
+  * The country Rogue was based in becomes a target of digital imperialism.
 * ANALYZE the situationâ€™s details
+  * If no actions are taken against Rogue
+    * Rogue will continue to make profit at the expense of the victims of malwares.
+  * Taking down Rogue through cyberattack
+    * The country Rogue is based in becomes a digital imperialism. At least according to the page,
+the security software companies and the governments attacked a civilian target on foreign soil 
+without any UN authorization.
+    * Individual retailers relying on Rogue will be harmed
 * REVIEW other obligations and limitations
+  * Rogue has the obligation to abide by their promise to customers
+  * The governments involved have the obligation to abide by due process and international law.
 * EVALUATE the best course of action
+  * Ethically, taking down Rogue after negotiating with the government of the country it is based in
+or commence attack after UN authorization might relatively better options, but this might not happen
+in time.
 
 
 ### Applicable Parts of the Code (and why)
 
 * 1.1 Contribute to society and to human well-being, acknowledging that all people are stakeholders in computing.
 * 1.2 Avoid harm.
-* 1.3 Be honest and trustworthy.
+  * Rogue profit from providing service to malware, violating 1.1 and 1.2. The attackers caused 
+collateral damage on individual retailers, violating 1.2.
 * 1.4 Be fair and take action not to discriminate.
-* 1.5 Respect the work required to produce new ideas, inventions, creative works, and computing artifacts.
-* 1.6 Respect privacy.
-* 1.7 Honor confidentiality.
+  * Attackers showed little respect to the sovereignty of the country Rogue is based in, violating
+  1.4
 
-* 2.1 Strive to achieve high quality in both the processes and products of professional work.
-* 2.2 Maintain high standards of professional competence, conduct, and ethical practice.
-* 2.3 Know and respect existing rules pertaining to professional work.
-* 2.4 Accept and provide appropriate professional review.
-* 2.5 Give comprehensive and thorough evaluations of computer systems and their impacts, including analysis of possible risks.
-* 2.6 Perform work only in areas of competence.
-* 2.7 Foster public awareness and understanding of computing, related technologies, and their consequences.
 * 2.8 Access computing and communication resources only when authorized or when compelled by the public good.
-* 2.9 Design and implement systems that are robustly and usably secure.
+  * The attackers accessed the resources of Rogue. While it can be argued that they are compelled
+by public good, there isn't enough information to be sure of that 
 
 * 3.1 Ensure that the public good is the central concern during all professional computing work.
-* 3.2 Articulate, encourage acceptance of, and evaluate fulfillment of social responsibilities by members of the organization or group.
-* 3.3 Manage personnel and resources to enhance the quality of working life.
-* 3.4 Articulate, apply, and support policies and processes that reflect the principles of the Code.
-* 3.5 Create opportunities for members of the organization or group to grow as professionals.
-* 3.6 Use care when modifying or retiring systems.
-* 3.7 Recognize and take special care of systems that become integrated into the infrastructure of society.
+  * Judge by its promise to provide service no matter what, Rogue's central concern is likely profit,
+violating 3.1
 
 
 ### Additional Thoughts
@@ -162,4 +167,3 @@ This might relate to a previous journal about making explainable models.
 
 
 ## Response to the quote about releasing software is an uncontrolled experiment
-/
