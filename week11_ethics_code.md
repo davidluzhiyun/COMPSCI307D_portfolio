@@ -57,7 +57,8 @@ also be argued that the engineers used to believe their work was for good.
 
 
 ### Additional Thoughts
-
+In real life such systems has already been employed by the israeli government to impose their policies
+of apartheid and settler colonialism.
 
 
 ## Scenario #2
@@ -65,46 +66,49 @@ also be argued that the engineers used to believe their work was for good.
 ### Summary of Situation's Ethical Issues
 
 
-### CARE Process
+### CARE Process Malicious Inputs to Content Filters
 
 * CONSIDER who might be affected and how
-  * 
+  * The activist group can still indoctrinate children with their view through the already polluted
+  model.
+  * Blocker Plus might become less or more popular because it's known bias.
+  * The children might grow up with a biased world view.
+  * Similar activist groups might try the same tactic again due to its success 
 * ANALYZE the situationâ€™s details
+  * If Blocker Plus switch back to an older model
+    * It might be able to thwart the groups plan to indoctrinate children more effectively
+    * Blocker Plus will get into legal trouble due to inability to block certain content
+  * if Block Plus keep the current model and just ban certain users
+    * It won't likely get into legal problem due to CIPA.
+    * It might get into problems due to the biased model
+    * It might make the children biased since the eventual correction might take a bit of time
 * REVIEW other obligations and limitations
+  * Blocker Plus has the obligation to comply with CIPA.
+  * Either option could have negative effect on children
 * EVALUATE the best course of action
-
+  * Ethically the best action might be to row back to the older model, because using the new model 
+violates 1.4 and 2.5 and 3.7. Legally keep going with the current model and hope for it to be fixed
+is the safest.
 
 ### Applicable Parts of the Code (and why)
 
-* 1.1 Contribute to society and to human well-being, acknowledging that all people are stakeholders in computing.
-* 1.2 Avoid harm.
-* 1.3 Be honest and trustworthy.
-* 1.4 Be fair and take action not to discriminate.
-* 1.5 Respect the work required to produce new ideas, inventions, creative works, and computing artifacts.
-* 1.6 Respect privacy.
-* 1.7 Honor confidentiality.
+* 1.4 Be fair and take action not to discriminate. 
+  * By continued using the current system, blocker plus is discriminating minority groups through
+inaction
 
-* 2.1 Strive to achieve high quality in both the processes and products of professional work.
-* 2.2 Maintain high standards of professional competence, conduct, and ethical practice.
-* 2.3 Know and respect existing rules pertaining to professional work.
 * 2.4 Accept and provide appropriate professional review.
 * 2.5 Give comprehensive and thorough evaluations of computer systems and their impacts, including analysis of possible risks.
 * 2.6 Perform work only in areas of competence.
 * 2.7 Foster public awareness and understanding of computing, related technologies, and their consequences.
-* 2.8 Access computing and communication resources only when authorized or when compelled by the public good.
-* 2.9 Design and implement systems that are robustly and usably secure.
+  * By not communicating the limitations of the system of their system to the public and the 
+  careless use of machine learning. Blocker Plus violate 2.4 to 2.7
 
-* 3.1 Ensure that the public good is the central concern during all professional computing work.
-* 3.2 Articulate, encourage acceptance of, and evaluate fulfillment of social responsibilities by members of the organization or group.
-* 3.3 Manage personnel and resources to enhance the quality of working life.
-* 3.4 Articulate, apply, and support policies and processes that reflect the principles of the Code.
-* 3.5 Create opportunities for members of the organization or group to grow as professionals.
-* 3.6 Use care when modifying or retiring systems.
-* 3.7 Recognize and take special care of systems that become integrated into the infrastructure of society.
-
+* 3.7 Recognize and take special care of systems that become integrated into the infrastructure of society. 
+  * Blocker Plus has been integrated into the infrastructure of society. The lack of special care
+  from the company has negative effect on a large population of children.
 
 ### Additional Thoughts
-
+This might relate to a previous journal about making explainable models.
 
 
 ## Scenario #3
