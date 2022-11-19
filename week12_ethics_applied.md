@@ -44,7 +44,7 @@ future contracts.
   * I need to report the defect to my superiors.
 * Reasons & Rationalizations
   * By reasoning from both an ethical perspective and from how it may affect the company, I can make
-  my voice more persuasive
+  my voice more persuasive.
 
 ### Additional Thoughts
 
@@ -53,49 +53,30 @@ future contracts.
 ## Scenario #2
 
 ### If you do not have any ethical concerns as presented, what change to the scenario would create issue(s)?
-
+If the code is from a codebase that specifically states that no commercial use is allowed. 
 
 ### How would handle the ethical issues in the situation?
-
+First, I would inform the managers about the complexity of the problem and the time might not be
+enough. Then I will use the fragment of code I found and attribute the codebase in my comment and
+documentations like my colleague did.
 
 ### Applicable Parts of the Code (and why)
 
-* 1.1 Contribute to society and to human well-being, acknowledging that all people are stakeholders in computing.
-* 1.2 Avoid harm.
-* 1.3 Be honest and trustworthy.
-* 1.4 Be fair and take action not to discriminate.
+
 * 1.5 Respect the work required to produce new ideas, inventions, creative works, and computing artifacts.
-* 1.6 Respect privacy.
-* 1.7 Honor confidentiality.
+  * If the managers insist on the deadline, they might be violating this rule. If I am using code
+  fragment from a source I shouldn't use, I am violating this code.
 
-* 2.1 Strive to achieve high quality in both the processes and products of professional work.
-* 2.2 Maintain high standards of professional competence, conduct, and ethical practice.
-* 2.3 Know and respect existing rules pertaining to professional work.
-* 2.4 Accept and provide appropriate professional review.
-* 2.5 Give comprehensive and thorough evaluations of computer systems and their impacts, including analysis of possible risks.
-* 2.6 Perform work only in areas of competence.
-* 2.7 Foster public awareness and understanding of computing, related technologies, and their consequences.
-* 2.8 Access computing and communication resources only when authorized or when compelled by the public good.
-* 2.9 Design and implement systems that are robustly and usably secure.
-
-* 3.1 Ensure that the public good is the central concern during all professional computing work.
-* 3.2 Articulate, encourage acceptance of, and evaluate fulfillment of social responsibilities by members of the organization or group.
 * 3.3 Manage personnel and resources to enhance the quality of working life.
-* 3.4 Articulate, apply, and support policies and processes that reflect the principles of the Code.
-* 3.5 Create opportunities for members of the organization or group to grow as professionals.
-* 3.6 Use care when modifying or retiring systems.
-* 3.7 Recognize and take special care of systems that become integrated into the infrastructure of society.
-
+  * If the managers insist on the deadline due to underestimating the complexity of the problem, 
+  they might be violating this rule.
 
 ### Useful GVV Pillars (and why)
 
-* Values
-* Choice
-* Normalization
-* Purpose
-* Self-Knowledge & Alignment
 * Voice
+  * I need to communicate with the management about the complexity of the problem.
 * Reasons & Rationalizations
+  * listing the technical issues I will face can make the above argument more persuasive.
 
 
 ### Additional Thoughts
